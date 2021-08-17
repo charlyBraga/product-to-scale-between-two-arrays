@@ -1,6 +1,4 @@
-(Translate [🇧🇷](https://github.com/charlyBraga/product-to-scale-between-two-arrays/blob/main/README-PTBR.md))
-##
-
+                                                                      (Translate [🇧🇷](https://github.com/charlyBraga/product-to-scale-between-two-arrays/blob/main/README-PTBR.md))
 ## Product to scale between two arrays 
 
 This simple code has two array. And the goal is to do a product to scale between them.
