@@ -1,7 +1,7 @@
                                                          
 ## Produto escalar entre dois vetores  (traduzir [🇺🇸](https://github.com/charlyBraga/product-to-scale-between-two-arrays/blob/main/README.md))
 
-[Click me](http://www.google.com){: .btn}
+<button type="button" class="btn btn-{{include.button_class}} active">{{include.button_name}}</button>
 
 O objetivo deste simples código em C é fazer o produto escalar entre dois vetores, conforme fórmula abaixo.
 
