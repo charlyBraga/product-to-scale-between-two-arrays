@@ -1,3 +1,4 @@
+<a> <href='www.google.com.br'> </a>
 ## Product to scale between two arrays
 
 This simple code has two array. And the goal is to do a product to scale between them.
