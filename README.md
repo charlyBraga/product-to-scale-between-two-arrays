@@ -3,6 +3,6 @@
 This simple code has two array. And the goal is to do a product to scale between them.
 
 
-#Formula
+Formula:
 
 <img src="https://github.com/charlyBraga/product-to-scale-between-two-arrays/blob/main/formula_product_scale.png?raw=true" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
